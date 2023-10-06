@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Back-end Repository
+## Back-end Repository 👋
 [인증, 운영 repository](https://github.com/v-squard/service-operation.git)
 
 <!--
