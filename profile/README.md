@@ -1,5 +1,5 @@
 ## Game Client Repository 👋
-[게임 클라이언트](https://github.com/MTVSquad/IROAS-Client)
+[게임 클라이언트 repository](https://github.com/MTVSquad/IROAS-Client)
 
 ## Back-end Repository 👋
 [인증, 플레이어, 맵, 랭킹 기능 API 서버 repository](https://github.com/MTVSquad/IROAS-Server.git)
