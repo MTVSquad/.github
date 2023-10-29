@@ -13,5 +13,6 @@
 -->
 
 ## Iroas System Architecture
-![image](https://github.com/MTVSquad/.github/assets/94158097/afaee426-1648-4397-b3b9-32f4916f2a00)
+![image](https://github.com/MTVSquad/.github/assets/94158097/2817664f-dae2-430d-a768-62eb81100e52)
+
 
